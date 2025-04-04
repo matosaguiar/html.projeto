@@ -1,0 +1,25 @@
+    body {
+            background-color: rgb(255, 255, 255);
+    }
+
+
+    header { background-color: rgb(0, 0, 0);
+
+        margin: 15px;
+        padding: 16px;
+        text-align: center;
+        color: rgb(36, 197, 255);
+
+        nav a{
+
+            margin: 15px;
+        padding: 16px;
+        text-align: center;
+        color: rgb(36, 197, 255);
+        
+    }
+    .botao {
+        background-color: #f42121; /* Blue */
+        font-size: 12px;
+
+    }
